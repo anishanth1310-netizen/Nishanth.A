@@ -1,0 +1,13 @@
+public class Division {
+    public static void main(String[] args) {
+        // Using double to ensure we get decimal results
+        double dividend = 25.0;
+        double divisor = 4.0;
+        
+        // Calculating the quotient
+        double quotient = dividend / divisor;
+        
+        // Displaying the result
+        System.out.println(dividend + " divided by " + divisor + " equals: " + quotient);
+    }
+}
