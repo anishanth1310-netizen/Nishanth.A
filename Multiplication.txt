@@ -1,0 +1,13 @@
+public class Multiplication {
+    public static void main(String[] args) {
+        // Variables to store the numbers
+        double num1 = 12.5;
+        double num2 = 4.0;
+        
+        // Calculating the product
+        double product = num1 * num2;
+        
+        // Displaying the result
+        System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
+    }
+}

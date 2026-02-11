@@ -1,0 +1,13 @@
+public class Subtraction {
+    public static void main(String[] args) {
+        // Variables to store the numbers
+        int num1 = 50;
+        int num2 = 20;
+        
+        // Calculating the difference
+        int difference = num1 - num2;
+        
+        // Displaying the result
+        System.out.println("The result of subtracting " + num2 + " from " + num1 + " is: " + difference);
+    }
+}
